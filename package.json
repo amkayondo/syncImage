@@ -1,0 +1,22 @@
+{
+  "name": "syncimages",
+  "version": "1.0.0",
+  "description": "An Image Syncing Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kayondo edward",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amkayondo/syncImage.git"
+  },
+  "keywords": [
+    "syncImage"
+  ],
+  "bugs": {
+    "url": "https://github.com/amkayondo/syncImage/issues"
+  },
+  "homepage": "https://github.com/amkayondo/syncImage#readme"
+}
